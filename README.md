@@ -60,5 +60,5 @@ This project is intended solely for educational, personal, and portfolio purpose
 
 - The dataset used in this analysis (`Airbnb_Open_Data python analiza.csv`) was obtained from an unknown source and is assumed to be publicly available or used in good faith.
 - No sensitive, proprietary, or personally identifiable information is included.
-- If you are the original author or data owner and would like proper attribution or removal, please contact the repository owner via [GitHub](https://github.com/matmarcinek).
+- If you are the original author or data owner and would like proper attribution or removal, please contact the repository owner via [GitHub] (https://github.com/matmarcinek).
 

@@ -23,7 +23,7 @@ Data analysis was conducted in a Jupyter Notebook, while interactive visualizati
 ├── presentation/
 │   └── Airbnb New York.pptx                       # Final presentation
 │
-└── README.md``` </pre>                                      # Project description
+└── README.md ``` </pre>                                      # Project description
 
  
  

@@ -12,10 +12,10 @@ Data analysis was conducted in a Jupyter Notebook, while interactive visualizati
 <pre> /AirBnb/
 │
 ├── data/
-│   └── Airbnb_Open_Data python analiza.csv       # Source dataset
+│   └── Airbnb_Open_Data python analiza.csv      # Source dataset
 │
 ├── notebooks/
-│   └── Airbnb python script 1.ipynb              # Python data analysis
+│   └── Airbnb python script 1.ipynb             # Python data analysis
 │
 ├── visualizations/
 │   └── Airbnb New York tableau package.twbx     # Tableau dashboard </pre>   

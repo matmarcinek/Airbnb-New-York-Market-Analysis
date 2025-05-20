@@ -40,14 +40,6 @@ Data analysis was conducted in a Jupyter Notebook, while interactive visualizati
 
 ---
 
-## ▶️ How to Use This Project
-
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/yourusername/airbnb-newyork-analysis.git
-   cd airbnb-newyork-analysis
-
-
 📈 Results
 The insights gained from this project can inform:
 

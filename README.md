@@ -22,8 +22,3 @@ Data analysis was conducted in a Jupyter Notebook, while interactive visualizati
 │
 │
 └── README.md  </pre>                                      # Project description
-
- 
- 
-
-

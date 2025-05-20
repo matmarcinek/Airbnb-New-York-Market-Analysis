@@ -50,7 +50,7 @@ Neighborhood-based investment opportunities
 
 Traveler behavior patterns
 
-## Links
+## 🔗 Links
 Interactive Dashboard (Tableau Public)
 https://public.tableau.com/app/profile/mateusz.marcinek/viz/AirbnbNewYorktableaupackage/AirbnbNewYork
 

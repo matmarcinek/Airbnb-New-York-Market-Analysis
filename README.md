@@ -20,8 +20,6 @@ Data analysis was conducted in a Jupyter Notebook, while interactive visualizati
 ├── visualizations/
 │   └── Airbnb New York tableau package.twbx       # Tableau dashboard
 │
-├── presentation/
-│   └── Airbnb New York.pptx                       # Final presentation
 │
 └── README.md  </pre>                                      # Project description
 

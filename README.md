@@ -25,7 +25,7 @@ Data analysis was conducted in a Jupyter Notebook, while interactive visualizati
 ---
 
 ## 🔍 Key Insights
-- 💰 Prices mostly range from **$300 to $900**, with outliers reaching $1200+.
+- 💰 Prices mostly range from **$300 to $900**, reaching as high as $1200+.
 - 📍 **Manhattan** and **Brooklyn** have the highest concentration of listings.
 - 🏠 **Entire homes/apartments** are booked most frequently, especially (Manhattan).
 - 🛏️ **Shared and hotel rooms** are least common and typically more expensive.

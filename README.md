@@ -9,7 +9,7 @@ Data analysis was conducted in a Jupyter Notebook, while interactive visualizati
 
 ## 📁 Folder Structure
 
-<pre> ``` /AirBnb/
+<pre> /AirBnb/
 │
 ├── data/
 │   └── Airbnb_Open_Data python analiza.csv        # Source dataset
@@ -23,7 +23,7 @@ Data analysis was conducted in a Jupyter Notebook, while interactive visualizati
 ├── presentation/
 │   └── Airbnb New York.pptx                       # Final presentation
 │
-└── README.md ``` </pre>                                      # Project description
+└── README.md  </pre>                                      # Project description
 
  
  

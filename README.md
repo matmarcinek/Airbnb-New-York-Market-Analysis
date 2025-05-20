@@ -9,6 +9,7 @@ Data analysis was conducted in a Jupyter Notebook, while interactive visualizati
 
 ## 📁 Folder Structure
 
+
 <pre> /AirBnb/
 │
 ├── data/

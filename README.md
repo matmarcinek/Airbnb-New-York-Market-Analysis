@@ -18,7 +18,5 @@ Data analysis was conducted in a Jupyter Notebook, while interactive visualizati
 │   └── Airbnb python script 1.ipynb              # Python data analysis
 │
 ├── visualizations/
-│   └── Airbnb New York tableau package.twbx      # Tableau dashboard
-│
-│
-└── README.md  </pre>                             # Project description
+│   └── Airbnb New York tableau package.twbx </pre>     # Tableau dashboard
+

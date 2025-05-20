@@ -49,3 +49,7 @@ Optimal pricing strategy for hosts
 Neighborhood-based investment opportunities
 
 Traveler behavior patterns
+
+## Links
+Interactive Dashboard (Tableau Public)
+https://public.tableau.com/app/profile/mateusz.marcinek/viz/AirbnbNewYorktableaupackage/AirbnbNewYork

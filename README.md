@@ -54,7 +54,7 @@ Traveler behavior patterns
 Interactive Dashboard (Tableau Public)
 https://public.tableau.com/app/profile/mateusz.marcinek/viz/AirbnbNewYorktableaupackage/AirbnbNewYork
 
-## ⚠️ Disclaimer
+### ⚠️ Disclaimer
 
 This project is intended solely for educational, personal, and portfolio purposes.
 
